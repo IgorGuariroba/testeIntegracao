@@ -2,3 +2,6 @@
 vendor/
 .phpunit.result.cache
 testdox.txt
+node_modules
+src/package.json
+src/package-lock.json
