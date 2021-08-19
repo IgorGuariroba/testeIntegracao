@@ -1,0 +1,1 @@
+DELETE FROM leiloes WHERE true;
